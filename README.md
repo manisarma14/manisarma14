@@ -1,14 +1,11 @@
 # Mani Sarma
 
-Data Engineer in progress · Bangalore target · Oct 2026
-
 ---
 
 ### About
 
-Frontend Engineer transitioning into Data Engineering.
-Building production-grade data pipelines from scratch.
-Currently focused on CDC, streaming, and analytical warehouses.
+Computer Science Graduate passionate about building
+production-grade data pipelines and analytical systems.
 
 ---
 
@@ -17,7 +14,7 @@ Currently focused on CDC, streaming, and analytical warehouses.
 | Project | Stack | Status |
 |---|---|---|
 | Zepto Dark Store Warehouse | PostgreSQL · Debezium · Kafka · Airflow · dbt · DuckDB | 🚧 In Progress |
-| CricIQ Cricket Analytics | PySpark · Iceberg · dbt · DuckDB · Groq · Streamlit | 📅 Starts Aug 2026 |
+| CricIQ Cricket Analytics | PySpark · Iceberg · dbt · DuckDB · Groq · Streamlit | 📅 Coming Soon |
 
 ---
 
