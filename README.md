@@ -72,9 +72,13 @@ Next.js 14 → LangChain.js → Qdrant → Groq → AWS
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisarma14&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=manisarma14&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manisarma14&theme=github_dark" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=manisarma14&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manisarma14&theme=github_dark" height="165"/>
+</p>
+
 ---
 
 ### LeetCode Stats
