@@ -1,8 +1,8 @@
 # Mani Sarma
 ---
 ### About
-Computer Science Graduate transitioning to Full-Stack Software Engineering.
-Building production-grade systems with modern JS/TS stack.
+Computer Science Graduate and Frontend Developer building
+production-grade full-stack systems with modern JS/TS stack.
 ---
 ### Currently Building
 | Project | Stack | Status |
