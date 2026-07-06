@@ -1,59 +1,56 @@
 # Mani Sarma
-
 ---
-
 ### About
-
-Computer Science Graduate passionate about building
-production-grade data pipelines and analytical systems.
-
+Computer Science Graduate transitioning to Full-Stack Software Engineering.
+Building production-grade systems with modern JS/TS stack.
 ---
-
 ### Currently Building
-
 | Project | Stack | Status |
 |---|---|---|
-| Zepto Dark Store Warehouse | PostgreSQL · Debezium · Kafka · Airflow · dbt · DuckDB | 🚧 In Progress |
-| CricIQ Cricket Analytics | PySpark · Iceberg · dbt · DuckDB · Groq · Streamlit | 📅 Coming Soon |
-
+| ThreadNest | React 19 · NestJS · PostgreSQL · Prisma · Redis · Docker | 🚧 In Progress |
+| ZapDeliver | NestJS · Kafka · Socket.io · PostgreSQL · Redis · AWS | 📅 Coming Soon |
+| CodeSage AI | Next.js 14 · LangChain.js · Qdrant · Groq · RAG | 📅 Coming Soon |
 ---
-
 ### Tech Stack
+**Frontend**
+React 19 · Next.js 14 · TypeScript
 
-**Data Engineering**
-CDC · Debezium · Apache Kafka · Apache Airflow · dbt Core · DuckDB · Apache Spark · Apache Iceberg · Great Expectations · OpenLineage
+**Backend**
+NestJS · Node.js · REST APIs · WebSockets
 
 **Databases**
-PostgreSQL · DuckDB · Snowflake
+PostgreSQL · Redis · Prisma ORM
 
-**Storage**
-MinIO · AWS S3
+**Messaging & Streaming**
+Apache Kafka · Socket.io
 
-**Monitoring**
-Grafana · Prometheus
+**AI / LLM**
+LangChain.js · Qdrant · Groq · RAG
+
+**DevOps & Cloud**
+Docker · GitHub Actions · AWS · CI/CD
 
 **Languages**
-Python · SQL
+TypeScript · JavaScript · Python (DSA)
 
 **Tools**
-Docker · Git · GitHub Actions · VS Code
-
+Git · VS Code · Postman
 ---
-
 ### Featured Projects
+**[ThreadNest](https://github.com/manisarma14/ThreadNest)**
+Developer community platform with real-time discussions, auth, and role-based access.
+React 19 → NestJS → PostgreSQL → Redis → Docker → AWS
 
-**[Zepto Dark Store Warehouse](https://github.com/manisarma14/Zepto-Dark-Store-Warehouse)**
-End-to-end CDC data warehouse tracking SLA breaches across 300+ dark stores.
-PostgreSQL → Debezium → Kafka → Airflow → MinIO → dbt → DuckDB → Power BI
+**[ZapDeliver](https://github.com/manisarma14/ZapDeliver)**
+Hyperlocal delivery backend with real-time order tracking and event-driven architecture.
+NestJS → Kafka → Socket.io → PostgreSQL → Redis → AWS
 
+**[CodeSage AI](https://github.com/manisarma14/CodeSage-AI)**
+AI-powered code review SaaS using RAG pipeline for context-aware feedback.
+Next.js 14 → LangChain.js → Qdrant → Groq → AWS
 ---
-
 ### GitHub Stats
-
 ![Mani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisarma14&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ---
-
 ### Connect
-
 [LinkedIn](https://www.linkedin.com/in/maniisarma/) · [Email](mailto:manisarma1401@gmail.com)
