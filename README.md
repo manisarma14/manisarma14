@@ -68,24 +68,6 @@ NestJS → Kafka → Socket.io → PostgreSQL → Redis → AWS
 AI-powered code review SaaS using RAG pipeline for context-aware feedback.
 Next.js 14 → LangChain.js → Qdrant → Groq → AWS
 
----
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manisarma14&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=manisarma14&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manisarma14&theme=github_dark" height="165"/>
-</p>
-
----
-
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/manisarma14?theme=light&hide_border=true)
-
----
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/maniisarma/) · [Email](mailto:manisarma1401@gmail.com)
