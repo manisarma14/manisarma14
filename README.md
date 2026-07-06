@@ -81,7 +81,7 @@ Next.js 14 → LangChain.js → Qdrant → Groq → AWS
 
 ### LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&hide_border=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manisarma14?theme=light&hide_border=true)
 
 ---
 
