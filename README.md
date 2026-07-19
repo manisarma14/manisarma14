@@ -1,21 +1,20 @@
 # Mani Sarma
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manisarma14&color=blue&style=flat)
 
 ---
 
 ### About
-Computer Science Graduate and Frontend Developer building
-production-grade full-stack systems with modern JS/TS stack.
+Computer Science Graduate and Frontend Engineer at IBM.
+Building production-grade full-stack systems with modern JS/TS and Python.
 
 ---
 
 ### Currently Building
+
 | Project | Stack | Status |
 |---|---|---|
-| ThreadNest | React 19 · NestJS · PostgreSQL · Prisma · Redis · Docker | 🚧 In Progress |
-| ZapDeliver | NestJS · Kafka · Socket.io · PostgreSQL · Redis · AWS | 📅 Coming Soon |
-| CodeSage AI | Next.js 14 · LangChain.js · Qdrant · Groq · RAG | 📅 Coming Soon |
+| ZapDeliver | React 19 · Next.js 14 · FastAPI · PostgreSQL · Kafka · Redis · Docker · AWS | 🚧 In Progress |
+| CricIQ Live | React 19 · FastAPI · MongoDB · LangChain · Qdrant · LangGraph | 📅 Coming Soon |
 
 ---
 
@@ -27,17 +26,17 @@ production-grade full-stack systems with modern JS/TS stack.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Messaging & Streaming**
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **AI / LLM**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -56,18 +55,15 @@ production-grade full-stack systems with modern JS/TS stack.
 
 ### Featured Projects
 
-**[ThreadNest](https://github.com/manisarma14/ThreadNest)**
-Developer community platform with real-time discussions, auth, and role-based access.
-React 19 → NestJS → PostgreSQL → Redis → Docker → AWS
-
 **[ZapDeliver](https://github.com/manisarma14/ZapDeliver)**
-Hyperlocal delivery backend with real-time order tracking and event-driven architecture.
-NestJS → Kafka → Socket.io → PostgreSQL → Redis → AWS
+Hyperlocal delivery platform with real-time order tracking and event-driven architecture.
+React 19 · Next.js 14 · FastAPI · PostgreSQL · Kafka · Redis · WebSockets · Docker · AWS
 
-**[CodeSage AI](https://github.com/manisarma14/CodeSage-AI)**
-AI-powered code review SaaS using RAG pipeline for context-aware feedback.
-Next.js 14 → LangChain.js → Qdrant → Groq → AWS
+**[CricIQ Live](https://github.com/manisarma14/CricIQ)**
+AI cricket analytics with RAG pipeline, live commentary streaming and win probability model.
+React 19 · FastAPI · MongoDB · LangChain · Qdrant · LangGraph · AWS
 
+---
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/maniisarma/) · [Email](mailto:manisarma1401@gmail.com)
